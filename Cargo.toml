@@ -1,6 +1,6 @@
 [package]
 authors = ["Andreas Heider <andreas@heider.io>"]
-name = "stm32l1xx"
+name = "stm32l151"
 version = "0.1.0"
 
 [dependencies]

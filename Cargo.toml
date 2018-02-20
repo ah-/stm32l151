@@ -1,6 +1,11 @@
 [package]
 authors = ["Andreas Heider <andreas@heider.io>"]
+categories = ["embedded", "hardware-support", "no-std"]
+description = "svd2rust crate for STM32L151"
+keywords = ["arm", "cortex-m", "stm32", "svd2rust"]
+license = "MIT OR Apache-2.0"
 name = "stm32l151"
+repository = "https://github.com/ah-/stm32l151"
 version = "0.2.1"
 
 [dependencies]

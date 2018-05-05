@@ -6,7 +6,7 @@ keywords = ["arm", "cortex-m", "stm32", "svd2rust"]
 license = "MIT OR Apache-2.0"
 name = "stm32l151"
 repository = "https://github.com/ah-/stm32l151"
-version = "0.2.1"
+version = "0.2.2"
 
 [dependencies]
 bare-metal = "0.1.1"
